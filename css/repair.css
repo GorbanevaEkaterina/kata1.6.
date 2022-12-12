@@ -1,0 +1,171 @@
+@media (min-width: 1440px) {
+  .repair {
+    float: right;
+  }
+}
+section.repair__wrapper {
+  width: 320px;
+  height: 628px;
+  top: 806px;
+}
+
+@media (min-width: 768px) {
+  section.repair__wrapper {
+    width: 768px;
+    height: 288px;
+    top: 816px;
+  }
+}
+@media (min-width: 1120px) {
+  section.repair__wrapper {
+    width: 1120px;
+    height: 288px;
+    top: 875px;
+  }
+}
+@media (min-width: 1440px) {
+  section.repair__wrapper {
+    float: right;
+    width: 1120px;
+    height: 288px;
+    top: 875px;
+  }
+}
+.repair__wrapper_head {
+  width: 320px;
+  height: 80px;
+  padding: 16px;
+  background: linear-gradient(270deg, #F8F8F8 0%, #FFFFFF 98.61%);
+  font-family: 'TT Lakes Compressed Thin','Segoe UI Light';
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.2px;
+  text-transform: uppercase;
+  color: #7E7E82;
+}
+
+@media (min-width: 768px) {
+  .repair__wrapper_head {
+    width: 768px;
+    height: 56px;
+    padding-left: 24px;
+  }
+}
+@media (min-width: 1120px) {
+  .repair__wrapper_head {
+    width: 1120px;
+    height: 56px;
+    padding-left: 32px;
+    background: linear-gradient(270deg, #F8F8F8 0%, #FFFFFF 98.61%);
+  }
+}
+.repair__button {
+  display: flex;
+  justify-content: space-between;
+  width: 320px;
+  height: 292px;
+}
+
+@media (min-width: 768px) {
+  .repair__button {
+    width: 768px;
+    height: 328px;
+  }
+}
+@media (min-width: 1120px) {
+  .repair__button {
+    align-items: center;
+    width: 1120px;
+    height: 362px;
+  }
+}
+.repair__button1 {
+  width: 240px;
+  height: 160px;
+  background: #FFFFFF;
+  border: 1px solid #EAEAEA;
+  border-radius: 6px;
+}
+
+.repair__button2 {
+  width: 240px;
+  height: 160px;
+  background: #FFFFFF;
+  border: 1px solid #EAEAEA;
+  border-radius: 6px;
+}
+
+.repair__button3 {
+  width: 240px;
+  height: 160px;
+  background: #FFFFFF;
+  border: 1px solid #EAEAEA;
+  border-radius: 6px;
+}
+
+.repair__button4 {
+  width: 240px;
+  height: 160px;
+  background: #FFFFFF;
+  border: 1px solid #EAEAEA;
+  border-radius: 6px;
+}
+
+@media (min-width: 768px) {
+  .repair__button1,
+  .repair__button2,
+  .repair__button3,
+  .repair__button4 {
+    width: 224px;
+    height: 160px;
+  }
+}
+@media (min-width: 1120px) {
+  .repair__button1,
+  .repair__button2,
+  .repair__button3,
+  .repair__button4 {
+    width: 240px;
+    height: 160px;
+  }
+}
+.repair__button1_text1,
+.repair__button1_text2,
+.repair__button1_text3,
+.repair__button1_text4 {
+  width: 136px;
+  height: 24px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.2px;
+  color: #1B1C21;
+}
+
+@media (min-width: 768px) {
+  .repair__button1_text1,
+  .repair__button1_text2,
+  .repair__button1_text3,
+  .repair__button1_text4 {
+    width: 143px;
+    height: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    color: #1B1C21;
+  }
+}
+@media (min-width: 1120px) {
+  .repair__button1_text1,
+  .repair__button1_text2,
+  .repair__button1_text3,
+  .repair__button1_text4 {
+    width: 146px;
+    height: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    color: #1B1C21;
+  }
+}
+
+/*# sourceMappingURL=repair.css.map */
